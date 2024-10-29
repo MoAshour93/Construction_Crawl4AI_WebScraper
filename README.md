@@ -3,14 +3,14 @@
 This repository provides a user-friendly **web scraping tool** built using **Streamlit**, inspired by the **Crawl4AI** library. This app lets users scrape content from web pages, convert it into Markdown format, and download the cleaned text—accessible through an intuitive interface! 🚀
 
 ## 📑 Table of Contents
-1. [📋 Project Overview](#project-overview)
-2. [✨ Features](#features)
-3. [🔧 Installation](#installation)
-4. [📂 Application Structure](#application-structure)
-5. [🔍 Detailed Steps](#detailed-steps)
-6. [💾 Creating an Executable File](#creating-an-executable-file)
-7. [🚀 Usage](#usage)
-8. [🙏 Acknowledgments](#acknowledgments)
+1. [📋 Project Overview](#-project-overview)
+2. [✨ Features](#-features)
+3. [🔧 Installation](#-installation)
+4. [📂 Application Structure](#-application-structure)
+5. [🔍 Detailed Steps](#-detailed-steps)
+6. [💾 Creating an Executable File](#-creating-an-executable-file)
+7. [🚀 Usage](#-usage)
+8. [🙏 Acknowledgments](#-acknowledgments)
 
 ---
 
